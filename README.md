@@ -1,5 +1,3 @@
-## About me
-
 <p align='center'>
     <a href='https://www.yuque.com/5zhimao?tab=books'>语雀</a>
     &nbsp;•&nbsp;
